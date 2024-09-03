@@ -1,0 +1,6 @@
+﻿  test.cpp
+C:\Users\Dell\Desktop\dll\Project1\Project1\test.cpp(3,15): warning C4273: “MyClass::fun”: dll 链接不一致
+C:\Users\Dell\Desktop\dll\Project1\Project1\test.cpp(6,10): warning C4273: “MyClass::MyClass”: dll 链接不一致
+C:\Users\Dell\Desktop\dll\Project1\Project1\test.cpp(9,11): warning C4273: “MyClass::~MyClass”: dll 链接不一致
+    正在创建库 C:\Users\Dell\Desktop\dll\Project1\x64\Debug\Project1.lib 和对象 C:\Users\Dell\Desktop\dll\Project1\x64\Debug\Project1.exp
+  Project1.vcxproj -> C:\Users\Dell\Desktop\dll\Project1\x64\Debug\Project1.dll
